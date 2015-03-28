@@ -43,6 +43,10 @@ nav ul li a:hover {
 	margin-left: 5px;
 }
 
+a:focus, a:active, a:visited {
+	color: #4A2E17;
+}
+
 nav ul li a:hover {
 	-webkit-transition: margin-left .4s ease-in-out;
 	-moz-transition: margin-left .4s ease-in-out;
